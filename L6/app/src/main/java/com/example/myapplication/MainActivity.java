@@ -15,6 +15,8 @@ import android.widget.Button;
 import android.widget.PopupMenu;
 import android.widget.Toast;
 
+import com.example.l6.R;
+
 public class MainActivity extends AppCompatActivity {
 
     Button button;
